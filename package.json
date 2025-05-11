@@ -1,0 +1,24 @@
+{
+  "name": "practicaparcial",
+  "version": "1.0.0",
+  "description": "api video",
+  "keywords": [
+    "api-video",
+    "rest",
+    "http"
+  ],
+  "license": "MIT",
+  "author": "Nadia Catan",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.10"
+  }
+}

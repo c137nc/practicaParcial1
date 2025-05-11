@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "nombre": "taller 1",
+        "cantAlumnos": 50,
+        "aula": 106,
+        "habilitado": true
+    },
+    {
+        "id":2,
+        "nombre": "programacion 1",
+        "cantAlumnos": 39,
+        "aula": 109,
+        "habilitado": true
+    },
+    {
+        "id":3,
+        "nombre": "Sistemas Operativos 2",
+        "cantAlumnos": 0,
+        "aula": 150,
+        "habilitado": false
+    }
+]
